@@ -1,0 +1,9 @@
+./_bin/invented_language_cards
+./_bin/sanity_model
+./_bin/extract_colors
+./_bin/coordinate_system
+./_bin/invented_language_cards
+./_bin/sanity_model
+./_bin/extract_colors
+./_bin/coordinate_system
+./_bin/invented_language_cards
