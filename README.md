@@ -1,2 +1,56 @@
 # VQuery
 A rule rewriting framework that allows for the program to rewrite what compiled code it runs.
+
+## Output
+~~~
+Welcome To The Card Game
+ > Anos Esu Ea Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Anos Dixos Ea Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Anos Esu Denkos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Anos Dixos Denkos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Anos Esu Tenchos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Anos Dixos Tenchos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Anos Esu Oshokos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Anos Dixos Oshokos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Anos Esu Shos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Anos Dixos Shos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Anos Esu Kaiyos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Anos Dixos Kaiyos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Anos Esu Yunionos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Anos Dixos Yunionos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+[ Les Polanais, -270.0  Total Lati: 0.020408163 Specific Row Col: 0.5 Differential 0.479591837 ]
+[ Les Desert Chauds, -180.0 Total Lati: 0.020408163 Specific Row Col: 0.5 Differential 0.479591837 ]
+[ Les Polanais, 0.0  Total Lati: 0.020408163 Specific Row Col: 0.5 Differential 0.479591837 ]
+[ Les Desert Chauds, -180.0 Total Lati: 0.020408163 Specific Row Col: 0.5 Differential 0.479591837 ]
+La chien vert Nousils fido quicely.: [PH6DR2, Pale Lime, #B1F468, 37c854f0133347f815ea4a694f2d04bd],
+Welcome To The Card Game
+ > Les Trois De Rouleau Flottage [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Anos Seibunos Ea Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Les Trois De Rouleau Noyades [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Anos Seibunos Denkos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Les Trois De Rouleau Tempête De Poussieres [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Anos Seibunos Tenchos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Les Trois De Rouleau Pierre [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Anos Seibunos Oshokos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Les Trois De Rouleau Mort [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Anos Seibunos Shos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Les Trois De Rouleau Vie [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Anos Seibunos Kaiyos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Les Trois De Rouleau Liante [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Anos Seibunos Yunionos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Welcome To The Card Game
+ > Anos Roios Ea Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Anos Roios Ea Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Anos Roios Denkos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Anos Roios Denkos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Anos Roios Tenchos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Anos Roios Tenchos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Anos Roios Oshokos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Anos Roios Oshokos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Anos Roios Shos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Anos Roios Shos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Anos Roios Kaiyos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Anos Roios Kaiyos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Anos Roios Yunionos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Anos Roios Yunionos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+~~~
