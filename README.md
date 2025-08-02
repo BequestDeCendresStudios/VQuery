@@ -91,6 +91,5 @@ Les Quatre De Rouleau Liante [ Item: 0.5 Dataset: 0.076923077 Differential 0.423
 Les chatte rose Elle warutzu quicely.: [PH4DR1, Salmon, #FC746B, 37c854f0133347f815ea4a694f2d04bd],
 [ Les Polanais, 0.0  Total Lati: 0.020408163 Specific Row Col: 0.5 Differential 0.479591837 ]
 [ Les Desert Chauds, 0.0 Total Lati: 0.020408163 Specific Row Col: 0.5 Differential 0.479591837 ]
-~~~
 Anos Roios Yunionos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
 ~~~
