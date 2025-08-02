@@ -52,5 +52,45 @@ Anos Roios Shos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 
  > Anos Roios Kaiyos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
 Anos Roios Kaiyos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
  > Anos Roios Yunionos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+~~~
+
+## Output 2
+~~~
+[ Les Polanais, -270.0  Total Lati: 0.020408163 Specific Row Col: 0.5 Differential 0.479591837 ]
+[ Les Desert Chauds, 270.0 Total Lati: 0.020408163 Specific Row Col: 0.5 Differential 0.479591837 ]
+Welcome To The Card Game
+ > Les cing De Rouleau Flottage [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+712 [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Les cing De Rouleau Noyades [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+712 [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Les cing De Rouleau Tempête De Poussieres [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+712 [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Les cing De Rouleau Pierre [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+712 [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Les cing De Rouleau Mort [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+712 [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Les cing De Rouleau Vie [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+712 [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Les cing De Rouleau Liante [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+712 [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Welcome To The Card Game
+ > Les Six De Rouleau Flottage [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Les Quatre De Rouleau Flottage [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Les Six De Rouleau Noyades [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Les Quatre De Rouleau Noyades [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Les Six De Rouleau Tempête De Poussieres [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Les Quatre De Rouleau Tempête De Poussieres [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Les Six De Rouleau Pierre [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Les Quatre De Rouleau Pierre [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Les Six De Rouleau Mort [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Les Quatre De Rouleau Mort [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Les Six De Rouleau Vie [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Les Quatre De Rouleau Vie [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+ > Les Six De Rouleau Liante [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Les Quatre De Rouleau Liante [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
+Les chatte rose Elle warutzu quicely.: [PH4DR1, Salmon, #FC746B, 37c854f0133347f815ea4a694f2d04bd],
+[ Les Polanais, 0.0  Total Lati: 0.020408163 Specific Row Col: 0.5 Differential 0.479591837 ]
+[ Les Desert Chauds, 0.0 Total Lati: 0.020408163 Specific Row Col: 0.5 Differential 0.479591837 ]
+~~~
 Anos Roios Yunionos Mahos [ Item: 0.5 Dataset: 0.076923077 Differential 0.423076923 ]
 ~~~
